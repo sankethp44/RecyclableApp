@@ -1,3 +1,4 @@
+#About 
 "RecycleReward" is a user-friendly mobile app designed to streamline recycling efforts. It enables users to locate nearby recycling centers, track their recycling activities, and earn rewards for their eco-friendly actions. With its intuitive interface, the app provides educational resources on recycling best practices, empowering users to make informed decisions. From plastics to paper, RecycleReward guides users through every step of the recycling process, promoting environmental sustainability. Join the movement towards a cleaner planet today with RecycleReward.
 
 -> Authentication Module:
@@ -32,3 +33,6 @@ o	Points Tracking: Tracks users' earned exchange points and provides a summary o
 
 3.7 Coroutines and Asynchronous Tasks:
 o	Utilizes Kotlin Coroutines to perform background tasks asynchronously, such as fetching data from Firebase Firestore, processing orders, and handling image loading.
+
+
+_>Screeshots
