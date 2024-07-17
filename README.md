@@ -1,5 +1,6 @@
 # About 
-"RecycleReward" is a user-friendly mobile app designed to streamline recycling efforts. It enables users to locate nearby recycling centers, track their recycling activities, and earn rewards for their eco-friendly actions. With its intuitive interface, the app provides educational resources on recycling best practices, empowering users to make informed decisions. From plastics to paper, RecycleReward guides users through every step of the recycling process, promoting environmental sustainability. Join the movement towards a cleaner planet today with RecycleReward.
+"RecycleReward" is a user-friendly mobile app designed to streamline recycling efforts. It enables users to locate nearby recycling centers, track their recycling activities, and earn rewards for their eco-friendly actions. With its intuitive interface, the app provides educational resources on recycling best practices, empowering users to make informed decisions. From plastics to paper, RecycleReward guides users through every step of the recycling process, promoting environmental sustainability.
+Join the movement towards a cleaner planet today with RecycleReward.
 
 # Modules
 
