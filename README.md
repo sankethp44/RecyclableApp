@@ -2,6 +2,21 @@
 "RecycleReward" is a user-friendly mobile app designed to streamline recycling efforts. It enables users to locate nearby recycling centers, track their recycling activities, and earn rewards for their eco-friendly actions. With its intuitive interface, the app provides educational resources on recycling best practices, empowering users to make informed decisions. From plastics to paper, RecycleReward guides users through every step of the recycling process, promoting environmental sustainability.   
 Join the movement towards a cleaner planet today with RecycleReward.
 
+# Technologies used
+
+* Java
+* Firebase
+* Tensorflowlite ml
+* Figma
+
+# How to Use
+
+1. **Scan Objects:** Open the scanner feature and point your camera at the object you want to check. The app will tell you if it's recyclable.
+2. **Find Exchange Points:** Use the map feature to find the nearest recycling exchange points. Drop off your recyclable items at these locations.
+3. **Earn Points:** Every time you recycle, you earn points. Keep track of your points in the app and see how much you've contributed to a greener planet.
+4. **Shop:** Visit our store within the app to purchase eco-friendly products using the points you've earned.
+5. **Get Involved:** Share the app with your friends and family to spread the word about recycling and environmental sustainability.
+
 # Modules
 
 -> Authentication Module:
@@ -32,9 +47,8 @@ Join the movement towards a cleaner planet today with RecycleReward.
 -> Profile Module:
 
 *	User Profile Management: Enables users to view and update their profile information, including username, email, and profile picture. 
-*	Points Tracking: Tracks users' earned exchange points and provides a summary of their recycling efforts.      
-
-
+*	Points Tracking: Tracks users' earned exchange points and provides a summary of their recycling efforts.
+  
 # Screenshots
 
 ![349342657-01d25958-1b5a-4659-a23f-7e1bfe850383](https://github.com/user-attachments/assets/f6392cdd-14f1-42cc-b118-e107001b91fd) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;![349342924-9b8bb5a2-16a8-4f9e-9ef2-ade9f905324c](https://github.com/user-attachments/assets/a3bdb4fb-b880-4af7-a56c-3a2032c3ba9c)
