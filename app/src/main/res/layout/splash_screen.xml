@@ -1,0 +1,137 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#CEE6CF">
+
+	<ImageView
+		android:id="@+id/leaf"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:contentDescription="leaf"
+		android:src="@drawable/leaf"
+		android:layout_marginStart="@dimen/_50sdp"
+		android:layout_marginTop="@dimen/_483sdp"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+
+	<TextView
+		android:id="@+id/welcome"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginStart="@dimen/_63sdp"
+		android:layout_marginTop="@dimen/_17sdp"
+		android:shadowColor="#000000"
+		android:shadowDx="0"
+		android:shadowDy="4"
+		android:shadowRadius="4"
+		android:text="@string/welcome_string"
+		android:textColor="@color/welcome_color"
+		android:textSize="@dimen/_45ssp"
+		android:textStyle="bold"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<TextView
+		android:id="@+id/recycle_your_waste_materials"
+		android:layout_width="@dimen/_279sdp"
+		android:layout_height="242dp"
+		android:layout_marginStart="@dimen/_20sdp"
+		android:layout_marginTop="@dimen/_108sdp"
+		android:text="@string/recycle_your_waste_materials_string"
+		android:textColor="#000000"
+		android:textSize="@dimen/_40ssp"
+		android:textStyle="bold"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<RelativeLayout
+		android:id="@+id/frame_1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginStart="18dp"
+		android:layout_marginTop="290dp"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"/>
+
+	<ImageView
+		android:id="@+id/can"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginStart="@dimen/_248sdp"
+		android:layout_marginTop="92dp"
+		android:contentDescription="can"
+		android:src="@drawable/can"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<ImageView
+		android:id="@+id/vector_1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginStart="@dimen/_237sdp"
+		android:layout_marginTop="158dp"
+		android:contentDescription="vector_1"
+		android:src="@drawable/vector_1"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<ImageView
+		android:id="@+id/vector_2"
+		android:layout_width="43dp"
+		android:layout_height="52dp"
+		android:layout_marginStart="@dimen/_287sdp"
+		android:layout_marginTop="72dp"
+		android:contentDescription="vector_2"
+		android:src="@drawable/vector_2"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<ImageView
+		android:id="@+id/vector_3"
+		android:layout_width="@dimen/_43sdp"
+		android:layout_height="33dp"
+		android:layout_marginStart="@dimen/_287sdp"
+		android:layout_marginTop="110dp"
+		android:contentDescription="vector_3"
+		android:src="@drawable/vector_3"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<ImageView
+		android:id="@+id/leaf1"
+		android:layout_width="@dimen/_76sdp"
+		android:layout_height="@dimen/_61sdp"
+		android:layout_marginStart="@dimen/_230sdp"
+		android:layout_marginTop="@dimen/_305sdp"
+		android:contentDescription="leaf1"
+		android:src="@drawable/leaf1"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<ImageView
+		android:id="@+id/news"
+		android:layout_width="wrap_content"
+		android:layout_height="@dimen/_85sdp"
+		android:layout_marginStart="175dp"
+		android:layout_marginTop="@dimen/_302sdp"
+		android:contentDescription="news"
+		android:src="@drawable/news"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<ImageView
+		android:id="@+id/dustbin"
+		android:layout_width="@dimen/_275sdp"
+		android:layout_height="@dimen/_373sdp"
+		android:layout_marginStart="@dimen/_110sdp"
+		android:layout_marginTop="@dimen/_315sdp"
+		android:contentDescription="dustbin"
+		android:src="@drawable/dustbin"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
